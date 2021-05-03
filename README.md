@@ -1,10 +1,9 @@
 # basic-express-server
 
 ## Heroku app links
-[dev branch](https://ishaq-server-deploy-dev.herokuapp.com/)
-[main branch](https://ishaq-server-deploy-prod.herokuapp.com/)
+
+[main branch](https://ishaq-basic-express-server.herokuapp.com/)
 
 ## GitHub Action & PR
-[Actions](https://github.com/IshaqAlathamneh/server-deployment-practice/actions)
-[1- PR](https://github.com/IshaqAlathamneh/server-deployment-practice/pull/1)
-[2- PR](https://github.com/IshaqAlathamneh/server-deployment-practice/pull/2)
+[Actions](https://github.com/IshaqAlathamneh/basic-express-server/actions)
+[ PR](https://github.com/IshaqAlathamneh/basic-express-server/pull/1)
